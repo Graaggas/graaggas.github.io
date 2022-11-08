@@ -5,10 +5,9 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "131c7324aad6ece742b9512641ecdf4a",
 "res/splash_logo.png": "c87671fdac07b429f265b350166e74eb",
-"index.html": "07afb0075c082234e61914d75f998201",
-"/": "07afb0075c082234e61914d75f998201",
-"main.dart.js": "99fd4bdfe78bc23853fa0d95f0fe400a",
-"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
+"index.html": "b24956dcaf89cb522a65b1f16b3cfd0f",
+"/": "b24956dcaf89cb522a65b1f16b3cfd0f",
+"main.dart.js": "545c474656e6d049b02fe633bf691102",
 "style/style.css": "0f169f29d7df45ae3663cf2aa70f4f99",
 "script/loading.js": "4c4b43f3e7483fc86badbf01e6d42f71",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -122,11 +121,7 @@ const RESOURCES = {
 "assets/assets/fonts/Rubik-BlackItalic.ttf": "4189902bdb53c83f1ee124beb3ce7fc3",
 "assets/assets/fonts/Rubik-ExtraBold.ttf": "9f8c4a8202ef48c56a027ef49fbb2e35",
 "assets/assets/fonts/Rubik-Regular.ttf": "e100d91366c744a9fcf055b7c5af9961",
-"assets/assets/fonts/Rubik-BoldItalic.ttf": "8d5522a532a05a5a962b9e336261e1fb",
-"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
-"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
-"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
-"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
+"assets/assets/fonts/Rubik-BoldItalic.ttf": "8d5522a532a05a5a962b9e336261e1fb"
 };
 
 // The application shell files that are downloaded before a service worker can
